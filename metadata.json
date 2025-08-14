@@ -1,0 +1,5 @@
+{
+  "name": "Philippine Legal Eagle AI",
+  "description": "An AI-powered chat application for querying Philippine Laws and Jurisprudence, providing grounded answers with source citations.",
+  "requestFramePermissions": []
+}
